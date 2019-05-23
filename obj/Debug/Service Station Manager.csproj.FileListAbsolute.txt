@@ -1,0 +1,77 @@
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\Service Station Manager.exe.config
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\Service Station Manager.exe
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\Service Station Manager.pdb
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\EntityFramework.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\EntityFramework.xml
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service Station Manager.csprojAssemblyReference.cache
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.Properties.Resources.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service Station Manager.csproj.GenerateResource.cache
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service Station Manager.csproj.CoreCompileInputs.cache
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service Station Manager.csproj.CopyComplete
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service Station Manager.exe
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service Station Manager.pdb
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.MainForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\bin\Debug\Service Station Manager.exe.config
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\bin\Debug\Service Station Manager.exe
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\bin\Debug\Service Station Manager.pdb
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\bin\Debug\EntityFramework.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\bin\Debug\EntityFramework.xml
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\obj\Debug\Service Station Manager.csprojAssemblyReference.cache
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\obj\Debug\Service_Station_Manager.MainForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\obj\Debug\Service_Station_Manager.Properties.Resources.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\obj\Debug\Service Station Manager.csproj.GenerateResource.cache
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\obj\Debug\Service Station Manager.csproj.CoreCompileInputs.cache
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\obj\Debug\Service Station Manager.csproj.CopyComplete
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\obj\Debug\Service Station Manager.exe
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager2\obj\Debug\Service Station Manager.pdb
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.CarForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.ClientForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.EmployeeForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.InstallationForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.PartForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.GarageForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\obj\Debug\Service_Station_Manager.TypeForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\ClosedXML.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\ExcelNumberFormat.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\FastMember.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\System.IO.Packaging.dll
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\ClosedXML.pdb
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\ClosedXML.xml
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\kushi\OneDrive\Рабочий стол\Service Station Manager\bin\Debug\ExcelNumberFormat.xml
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\Service Station Manager.exe.config
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\Service Station Manager.exe
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\Service Station Manager.pdb
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\ClosedXML.dll
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\EntityFramework.dll
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\ExcelNumberFormat.dll
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\FastMember.dll
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\System.IO.Packaging.dll
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\ClosedXML.pdb
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\ClosedXML.xml
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\EntityFramework.xml
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kushi\OneDrive\Рабочий стол\16\bin\Debug\ExcelNumberFormat.xml
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service Station Manager.csprojAssemblyReference.cache
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.CarForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.ClientForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.EmployeeForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.GarageForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.InstallationForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.MainForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.PartForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.Properties.Resources.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service_Station_Manager.TypeForm.resources
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service Station Manager.csproj.GenerateResource.cache
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service Station Manager.csproj.CoreCompileInputs.cache
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service Station Manager.csproj.CopyComplete
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service Station Manager.exe
+C:\Users\kushi\OneDrive\Рабочий стол\16\obj\Debug\Service Station Manager.pdb

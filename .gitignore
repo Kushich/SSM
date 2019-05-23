@@ -1,0 +1,53 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 8A73-141D
+
+ Directory of D:\Git\SSM
+
+05/23/2019  09:35 PM    <DIR>          .
+05/23/2019  09:35 PM    <DIR>          ..
+05/23/2019  09:35 PM                 0 .gitignore
+05/06/2019  11:35 AM             1,505 App.config
+05/23/2019  09:28 PM    <DIR>          bin
+05/15/2019  11:14 AM               553 Car.cs
+05/15/2019  07:39 PM               410 CarForm.cs
+05/15/2019  07:39 PM             9,668 CarForm.Designer.cs
+05/15/2019  07:39 PM            20,617 CarForm.resx
+05/18/2019  10:58 PM                60 ClassDiagram.cd
+05/15/2019  07:39 PM               414 ClientForm.cs
+05/15/2019  07:39 PM             9,454 ClientForm.Designer.cs
+05/15/2019  07:39 PM             5,817 ClientForm.resx
+05/15/2019  07:39 PM               725 EmployeeForm.cs
+05/15/2019  07:39 PM             9,846 EmployeeForm.Designer.cs
+05/15/2019  07:39 PM             5,817 EmployeeForm.resx
+05/07/2019  02:29 PM               429 Garage.cs
+05/15/2019  07:37 PM               692 GarageForm.cs
+05/15/2019  07:37 PM             6,495 GarageForm.Designer.cs
+05/15/2019  07:37 PM             5,817 GarageForm.resx
+05/07/2019  03:51 PM               655 Installation.cs
+05/15/2019  07:39 PM               524 InstallationForm.cs
+05/15/2019  07:39 PM            11,902 InstallationForm.Designer.cs
+05/15/2019  07:39 PM             5,817 InstallationForm.resx
+05/17/2019  11:23 AM            28,366 MainForm.cs
+05/15/2019  07:48 PM            17,134 MainForm.Designer.cs
+05/15/2019  07:48 PM            20,815 MainForm.resx
+05/23/2019  09:28 PM    <DIR>          obj
+05/23/2019  09:28 PM    <DIR>          packages
+05/15/2019  12:57 PM               624 packages.config
+05/07/2019  12:29 PM               465 Part.cs
+05/15/2019  07:39 PM               410 PartForm.cs
+05/15/2019  07:39 PM             6,704 PartForm.Designer.cs
+05/15/2019  07:39 PM             5,817 PartForm.resx
+05/06/2019  11:38 AM               708 Person.cs
+05/02/2019  10:29 PM               549 Program.cs
+05/07/2019  03:53 PM               697 ProjectContext.cs
+05/23/2019  09:28 PM    <DIR>          Properties
+05/23/2019  09:28 PM    <DIR>          Resources
+05/15/2019  06:56 PM             8,966 Service Station Manager.csproj
+05/02/2019  12:51 PM             1,151 Service Station Manager.sln
+05/15/2019  06:47 PM             9,662 service.ico
+05/15/2019  07:39 PM               410 TypeForm.cs
+05/15/2019  07:39 PM             6,614 TypeForm.Designer.cs
+05/15/2019  07:39 PM             5,817 TypeForm.resx
+05/07/2019  03:53 PM               474 TypesOfWork.cs
+              39 File(s)        212,600 bytes
+               7 Dir(s)  125,433,393,152 bytes free
